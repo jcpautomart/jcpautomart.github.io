@@ -728,7 +728,7 @@ h6 {
   margin: 0 auto;
   padding-top: 30px;
   text-align: center;
-  border: 2px solid #f44337;
+  border: 2px solid #ffff00;
   border-radius: 100%;
 }
 .service-section .process-step .process-icon span {
@@ -739,8 +739,8 @@ h6 {
   height: 56px;
   margin-top: -30px;
   padding-right: 2px;
-  background-color: #f44337;
-  border: 2px solid #fff;
+  background-color: #000000;
+  border: 2px solid #ff0;
   color: #fff;
   line-height: 51px;
   font-size: 28px;
